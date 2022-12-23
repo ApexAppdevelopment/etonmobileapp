@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>933751434635-hu9rtjgoneoa0agnpslohi3vm1k2emar.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.933751434635-hu9rtjgoneoa0agnpslohi3vm1k2emar</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>933751434635-biavs3m231r9g0ucnd529d7qqii0tgap.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB6FAfzzVTBSK6JfiaeiPUlEEi6zjiRaxM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>933751434635</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.etonmobileapp.io</string>
+	<key>PROJECT_ID</key>
+	<string>etonapp2022</string>
+	<key>STORAGE_BUCKET</key>
+	<string>etonapp2022.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:933751434635:ios:20f52e0bc6ef7d65b5d38e</string>
+	<key>DATABASE_URL</key>
+	<string>https://etonapp2022-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
